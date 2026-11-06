@@ -16,6 +16,15 @@
 - `iris-client.irisapp.workers.dev`
 - `iris-groups.irisapp.workers.dev`
 
+## 构建
+
+```bash
+npm install
+npm run build
+```
+
+生成 `iris-zh.min.js`，压缩时会保留油猴脚本的元数据头。
+
 ## 已覆盖的范围
 
 - 导航、信息流、通知、个人资料、设置、钱包、聊天、群组、市场、举报等页面。

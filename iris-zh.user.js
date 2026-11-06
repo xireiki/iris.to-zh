@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Iris.to 中文化
 // @namespace    https://iris.to/
-// @version      1.1.0
+// @version      1.0.0
 // @description  把 iris.to 的界面翻译成简体中文
 // @author       you
 // @match        https://iris.to/*
