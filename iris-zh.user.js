@@ -4,6 +4,8 @@
 // @version      1.0.0
 // @description  把 iris.to 的界面翻译成简体中文
 // @author       you
+// @updateURL    https://rki.lol/iris-zh.js
+// @downloadURL  https://rki.lol/iris-zh.js
 // @match        https://iris.to/*
 // @match        https://*.iris.to/*
 // @match        https://iris-client.irisapp.workers.dev/*
